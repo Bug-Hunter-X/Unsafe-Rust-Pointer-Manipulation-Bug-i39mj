@@ -1,0 +1,1 @@
+This repository contains examples of an unsafe Rust code snippet that directly manipulates raw pointers.  The `bug.rs` file demonstrates the unsafe operation and potential for errors.  `bugSolution.rs` offers a safer, more idiomatic approach using Rust's safe abstractions.  Carefully review the code to understand the risks associated with unsafe operations and safer alternatives.
